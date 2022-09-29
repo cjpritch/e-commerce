@@ -53,7 +53,7 @@ router.get('/:id', (req, res) => {
     });
 });
 
-// /api/products/:id
+// /api/products
 router.post('/', (req, res) => {
   // create new product
     Product.create({
