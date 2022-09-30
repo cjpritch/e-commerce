@@ -27,7 +27,9 @@ To get started, clone this repository and navigate into it's root folder. Then r
 
 ## Demo
 
+![image](./assets/images/Screen%20Shot%202022-09-30%20at%203.31.56%20PM.png)
 
+[Click to view Demo](https://drive.google.com/file/d/1MPObr9wfpuPwIiGCLuVAnOGJQtvQA1_N/view)
 
 
 
